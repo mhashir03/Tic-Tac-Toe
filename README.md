@@ -17,10 +17,6 @@ This is a simple command-line Tic Tac Toe game implemented in C++. The game allo
 - **Win/Tie Detection**: The game can detect a win or a tie and will end accordingly.
 - **Pointers Usage**: The game uses pointers to manage the board and player/computer moves, helping to reinforce the understanding of pointers in C++.
 
-## Objective
-
-The primary goal of this project was to provide hands-on experience with pointers in C++. By passing pointers to functions, manipulating arrays via pointers, and managing data between different parts of the program, this project serves as a practical exercise in pointer usage.
-
 ## How to Run
 
 1. Clone this repository:
