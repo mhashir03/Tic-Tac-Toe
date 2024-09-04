@@ -1,7 +1,5 @@
 # Tic Tac Toe in C++
 
-## Overview
-
 This is a simple command-line Tic Tac Toe game implemented in C++. The game allows a human player to compete against the computer. The primary objective of this project was to learn and understand pointers in C++. By working with arrays, function pointers, and passing data between functions using pointers, this project aims to strengthen skills that I am learning in my Data Structures class, particularly in memory management and data manipulation.
 
 ## How It Works
